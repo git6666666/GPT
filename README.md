@@ -26,7 +26,7 @@ https://www.cursor.so/
 
 ## 网站
 
-### https://aichatos.com/
+### http://aichatos.com/
 
 
 ## Prompt

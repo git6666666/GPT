@@ -3,6 +3,9 @@
 
 ## 工具
 
+### Chatdoc
+https://chatdoc.com/
+
 ### Craft
 https://www.craft.do/
 
@@ -18,11 +21,12 @@ https://www.cursor.so/
 
 ## 浏览器插件
 
-wetab
+### wetab
 
 
 ## 网站
-待整理
+
+### https://aichatos.com/
 
 
 ## Prompt

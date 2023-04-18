@@ -15,6 +15,8 @@ https://typeset.io/
 ### Chatpdf
 https://www.chatpdf.com/
 
+### Humata
+https://www.humata.ai/
 
 ## 编程工具
 

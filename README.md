@@ -1,7 +1,7 @@
 # GPT
-收集有用的GPT，动态更新
+收集有用的GPT工具，动态更新
 
-## 工具
+## 写作/科研工具
 
 ### Chatdoc
 https://chatdoc.com/
@@ -15,6 +15,9 @@ https://typeset.io/
 ### Chatpdf
 https://www.chatpdf.com/
 
+
+## 编程工具
+
 ### Cursor
 https://www.cursor.so/
 
@@ -24,10 +27,11 @@ https://www.cursor.so/
 ### wetab
 
 
-## 网站
+## 聊天网站
 
 ### http://aichatos.com/
 
+### https://open-assistant.io/chat
 
 ## Prompt
 待整理

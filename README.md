@@ -31,7 +31,7 @@ https://www.cursor.so/
 
 ## 聊天网站
 
-### http://aichatos.com/
+### http://aichatos.top/
 
 ### https://open-assistant.io/chat
 

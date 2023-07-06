@@ -43,7 +43,7 @@ https://www.cursor.so/
 
 ## 润色
 
-### U+1F680 https://chat.lmsys.org/
+### :rocket: https://chat.lmsys.org/
 
 
 ## Prompt

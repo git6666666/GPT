@@ -34,11 +34,11 @@ https://www.cursor.so/
 
 ## 聊天网站
 
-### https://binjie.fun/
+### https://c.binjie.fun/
 
-### https://ai-node.com
+### https://url1.ai-node.com
 
-### https://open-assistant.io/chat
+### ~~https://open-assistant.io/chat~~
 
 ## Prompt
 待整理

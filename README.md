@@ -3,6 +3,9 @@
 
 ## 写作/科研工具
 
+### 新读
+https://xdu.cn/
+
 ### Chatdoc
 https://chatdoc.com/
 
@@ -31,7 +34,9 @@ https://www.cursor.so/
 
 ## 聊天网站
 
-### http://aichatos.top/
+### https://binjie.fun/
+
+### https://ai-node.com
 
 ### https://open-assistant.io/chat
 

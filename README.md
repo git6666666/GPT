@@ -38,12 +38,13 @@ https://www.cursor.so/
 
 ### https://url1.ai-node.com
 
+### ~~https://open-assistant.io/chat~~
+
 
 ## 润色
 
-### &#x1F680 https://chat.lmsys.org/
+### U+1F680 https://chat.lmsys.org/
 
-### ~~https://open-assistant.io/chat~~
 
 ## Prompt
 待整理

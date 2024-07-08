@@ -23,8 +23,15 @@ https://www.humata.ai/
 
 ## 编程工具
 
-### Cursor
-https://www.cursor.so/
+|名|性能|链接||||
+|-|-|-|-|-|-|
+|github copilot|代码简洁，整合度高，bug较多|||||
+|钉钉（千问）|代码详细、啰嗦，能检查并修正bug|||||
+|||||||
+|Cursor||https://www.cursor.so/||||
+|||||||
+
+
 
 
 ## 浏览器插件

@@ -14,7 +14,7 @@
 |-|-|-|
 |open webui|53|python|
 |nextchat|78|网页/app|
-||||
+|chatbox|24|网页/app|
 ||||
 
 

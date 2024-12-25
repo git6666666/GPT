@@ -14,6 +14,9 @@
 |-|-|-|
 |open webui|53|python|
 |nextchat|78|网页/app|
+||||
+||||
+
 
 
 ## 写作/科研工具

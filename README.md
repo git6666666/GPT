@@ -3,6 +3,7 @@
 
 ## UI
 |名|星(k)|使用|
+|-|-|-|
 |open webui|53|python|
 
 
